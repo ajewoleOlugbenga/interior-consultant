@@ -2,7 +2,6 @@
 
 import React, { useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
-import NavLink from "../components/navLink";
 import { AiOutlineClose } from "react-icons/ai";
 
 const MobileNav = () => {
