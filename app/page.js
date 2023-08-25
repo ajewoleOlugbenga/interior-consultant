@@ -18,7 +18,6 @@ const Home = () => {
           <div>
             <BsArrowRight size={20}/>
           </div>
-          
         </div>
       </section>
       <section>
