@@ -30,10 +30,10 @@ const MobileNav = () => {
               />
             </div>
             <div className="inline-flex flex-col justify-center items-center grow gap-10">
-              <a href="#" className="text-xl hover:border-b">Home</a>
-              <a href="#" className="text-xl hover:border-b">Collection</a>
-              <a href="#" className="text-xl hover:border-b">About</a>
-              <a href="#" className="text-xl hover:border-b ">Contact</a>
+              <a href="#" className="text-xl hover:border-b-4">Home</a>
+              <a href="#" className="text-xl hover:border-b-4">Collection</a>
+              <a href="#" className="text-xl hover:border-b-4">About</a>
+              <a href="#" className="text-xl hover:border-b-4 ">Contact</a>
             </div>
           </section>
         )}

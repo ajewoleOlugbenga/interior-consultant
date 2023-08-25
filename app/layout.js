@@ -12,13 +12,8 @@ const RootLayout = ({children}) => {
     <html lang="en">
     <body>
       <main className='w-screen h-screen bg-gray-900 overflow-hidden'>
-        <span className='hidden md:flex'>
           <DesktopNav/>
-        </span>
-        <span>
         <MobileNav />
-        </span>
-        
       {children}
       </main>
     </body>
